@@ -1,0 +1,8 @@
+﻿<Window x:Class="KinectSimpleApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="tbStatus" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>
